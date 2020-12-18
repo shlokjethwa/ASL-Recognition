@@ -30,5 +30,5 @@ In this step we are implementing 10 epochs and for each we have a patch size of 
 ### Step 7 - Model report
 Here we are displaying the confusion matrix of the model. Along with that we also get the f scores, precision, recall for the predictions by the model. 
 
-### Step 8 - Testing
+### Step 8 - Gesture Recognition
 This is the step where we recognize the gesture that we are making in the ASL in the form of alphabet and we achieved an accuracy of 99%. 
